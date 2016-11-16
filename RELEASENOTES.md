@@ -1,6 +1,8 @@
 # Release notes for iScroll
 
 ---
+### Fixes 5.2.1 - 2016-11-16
+* [#876](https://github.com/cubiq/iscroll/issues/876) fixes A checkbox can't be toggled with active IScroll
 
 ##  Version 5.2.0 - 2016.04.05
 
